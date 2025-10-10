@@ -27,21 +27,19 @@ El alumno implementará **Programación Orientada a Objetos** para el desarrollo
 ---
 
 ### Objetivos de la Lección
-<div style="border:2px solid #4caf50; padding: 10px; border-radius: 8px; background-color: #e8f5e9;">
-- **Configurar un proyecto en Unity Hub.**  
-- **Posicionar un vehículo y un obstáculo en la escena.**  
-- **Configurar la cámara para la mejor visualización del jugador.**  
-- **Personalizar el diseño de ventana del Editor de Unity.**
-</div>
-
----
+> ----------------------------------------  
+> **Configurar un proyecto en Unity Hub**  
+> **Posicionar un vehículo y un obstáculo en la escena**  
+> **Configurar la cámara para la mejor visualización del jugador**  
+> **Personalizar el diseño de ventana del Editor de Unity**  
+> ----------------------------------------
 
 ### Resultado Esperado
-<div style="border:2px solid #2196f3; padding: 10px; border-radius: 8px; background-color: #e3f2fd;">
-- **Vehículo y obstáculo correctamente posicionados en la escena.**  
-- **Cámara optimizada detrás del vehículo.**  
-- **Diseño de ventana de Unity personalizado y funcional.**
-</div>
+> ----------------------------------------  
+> **Vehículo y obstáculo correctamente posicionados en la escena**  
+> **Cámara optimizada detrás del vehículo**  
+> **Diseño de ventana de Unity personalizado y funcional**  
+> ----------------------------------------
 
 ---
 
