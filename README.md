@@ -1,6 +1,7 @@
 # 🎮 Creación de Videojuegos - GIDS5101
 
 **Alumno:** Elizabeth Gutierrez Olvera
+
 **Grupo:** GIDS5101  
 
 ---
