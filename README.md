@@ -35,15 +35,16 @@ El alumno implementará Programación Orientada a Objetos para el desarrollo de 
 
 ### 📂 Archivos de la lección
 
-[Lección 1 - Proyecto Unity (`Leccion1.PlayerControl.unitypackage`)](./Lecciones/Leccion1/Leccion1.PlayerControl.unitypackage)  
-[Lección 1 - Documentación (`Leccion1.pdf`)](./Lecciones/Leccion1/Leccion1.pdf)
+- [Lección 1 - Proyecto Unity](Lecciones/Leccion%201/Leccion1.PlayerControl.unitypackage)
+- [Lección 1 - Documentación](Lecciones/Leccion%201/Leccion1.pdf)
 
 ---
 
 ### 🖼 Ejemplo visual
 
 <img src="https://connect-mediagw.unity.com/h1/20190423/learn/images/2f654ac8-d6c7-4746-ad91-e4f3a6014fe1_Screen_Shot_2019_04_23_at_3.57.47_PM.png" alt="Simulación de Conducción" width="500">
-> Ejemplo de la leccion.  
+
+> Escena con vehículo, obstáculos y cámara configurada. 
 
 
 **Autor:** Elizabeth Gutierrez Olvera 
