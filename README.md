@@ -60,7 +60,7 @@ El alumno implementará **Programación Orientada a Objetos** para el desarrollo
 
 ## Practica 3: Creación de un Menú Principal en Unity
 ### Archivos de la Lección
-- [Practica 3 - Documentación](Practicas/Practicas3/Practica%203.pdf)
-- [Practica 3 - Video](Practicas/Practicas3/Practica%203.mp4)
+- [Práctica 3 - Documentación](Practicas/Practica3/Practica%203.pdf)
+- [Práctica 3 - Video](Practicas/Practica3/Practica3.mp4)
 
 ---
