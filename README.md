@@ -57,3 +57,10 @@ El alumno implementará **Programación Orientada a Objetos** para el desarrollo
 ---
 
 **Autor:** Elizabeth Gutierrez Olvera
+
+## Practica 3: Creación de un Menú Principal en Unity
+### Archivos de la Lección
+- [Practica 3 - Documentación](Practicas/Practica%203/Practica3.pdf)
+- [Practica 3 - Video](Practicas/Practica%203/Practica3.mp4)
+
+---
