@@ -46,6 +46,7 @@ El alumno implementará **Programación Orientada a Objetos** para el desarrollo
 ### Archivos de la Lección
 - [Lección 1 - Proyecto Unity](Lecciones/Leccion%201/Leccion1.PlayerControl.unitypackage)
 - [Lección 1 - Documentación](Lecciones/Leccion%201/Leccion1.pdf)
+- [Lección 1 - Video](Lecciones/Leccion%201/Leccion1.mp4)
 
 ---
 
