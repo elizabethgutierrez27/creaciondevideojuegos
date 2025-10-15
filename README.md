@@ -5,25 +5,25 @@
 
 ---
 
-## 🎯 Objetivo General de la Materia
+## Objetivo General de la Materia
 [![Objetivo-General](https://img.shields.io/badge/Objetivo-General-blue?style=for-the-badge&logo=unity)]  
 El alumno desarrollará aplicaciones de videojuegos mediante el proceso de planeación, programación orientada a objetos, despliegue y la normativa aplicable para el público de videojugadores.
 
 ---
 
-## 🧩 Objetivo de la Unidad II
+## Objetivo de la Unidad II
 [![Unidad-II](https://img.shields.io/badge/Unidad-II-orange?style=for-the-badge&logo=unity)]  
 El alumno implementará **Programación Orientada a Objetos (POO)** para el desarrollo de prototipos de aplicaciones para videojuegos.
 
 ---
 
-## 🚗 Lección 1: Simulación de Conducción
+## Lección 1: Simulación de Conducción
 [![Lección-1](https://img.shields.io/badge/Leccion-1-red?style=for-the-badge&logo=unity)]  
 
 > **Descripción General:**  
 > Crearás tu primer proyecto en **Unity Hub**, colocando un vehículo que el jugador pueda conducir y obstáculos que deba esquivar. Configurarás la cámara y personalizarás tu diseño de ventana del Editor, aprendiendo a manejar el espacio 3D.
 
-### 🎯 Objetivos de la Lección
+### Objetivos de la Lección
 > ----------------------------------------
 > - Configurar un proyecto en Unity Hub  
 > - Posicionar un vehículo y un obstáculo en la escena  
@@ -31,7 +31,7 @@ El alumno implementará **Programación Orientada a Objetos (POO)** para el desa
 > - Personalizar el diseño de ventana del Editor de Unity  
 > ----------------------------------------
 
-### ✅ Resultado Esperado
+### Resultado Esperado
 > ----------------------------------------
 > - Vehículo y obstáculo correctamente posicionados en la escena  
 > - Cámara optimizada detrás del vehículo  
@@ -51,7 +51,7 @@ El alumno implementará **Programación Orientada a Objetos (POO)** para el desa
 
 ---
 
-## 🍔 Lección 2: Alimenta a los Animales
+## Lección 2: Alimenta a los Animales
 [![Lección-2](https://img.shields.io/badge/Leccion-2-green?style=for-the-badge&logo=unity)]  
 
 > **Descripción General:**  
@@ -59,7 +59,7 @@ El alumno implementará **Programación Orientada a Objetos (POO)** para el desa
 > Te familiarizarás con algunos de los conceptos más importantes de programación y Unity, como las **sentencias if-then**, la **generación de valores aleatorios**, los **arrays**, la **detección de colisiones**, los **prefabricados** y la **instanciación**.  
 > Al completar esta unidad, aprenderás a programar un juego básico con la capacidad de lanzar proyectiles y manipular al jugador para mantener la partida activa.
 
-### 🎯 Objetivos de la Lección
+### Objetivos de la Lección
 > ----------------------------------------
 > - Aplicar estructuras condicionales y aleatoriedad  
 > - Detectar colisiones entre jugador y enemigos  
@@ -67,34 +67,34 @@ El alumno implementará **Programación Orientada a Objetos (POO)** para el desa
 > - Controlar el flujo de juego mediante colisiones  
 > ----------------------------------------
 
-### ✅ Resultado Esperado
+### Resultado Esperado
 > ----------------------------------------
 > - Juego funcional donde el jugador lanza comida a los animales  
 > - Detección correcta de colisiones y eliminación de enemigos  
 > - Sistema de proyectiles y puntuación básica implementado  
 > ----------------------------------------
 
-### 📂 Archivos de la Lección
+### Archivos de la Lección
 - [Lección 2 - Proyecto Unity](Lecciones/Leccion%202/Leccion2.unitypackage)  
 - [Lección 2 - Documentación](Lecciones/Leccion%202/Leccion%202.pdf)  
 - [Lección 2 - Video](Lecciones/Leccion%202/Leccion2.mp4)  
 
 ---
 
-<img src="https://learn.unity.com/api/v1/media/galleries/5dded932edbc2a001f1e2ac3/thumbnail" alt="Alimenta a los Animales" width="600">
+<img src="[https://learn.unity.com/api/v1/media/galleries/5dded932edbc2a001f1e2ac3/thumbnail](https://learn.unity.com/_next/image?url=https%3A%2F%2Fconnect-mediagw.unity.com%2Fh1%2F20190423%2Flearn%2Fimages%2F6b2e02ed-3cac-4a31-80c7-ebfa1af5c5f9_2_1_full.png&w=256&q=75)" alt="Alimenta a los Animales" width="600">
 
 > Escenario superior donde el jugador lanza comida a los animales.
 
 ---
 
-## 🏃 Lección 3: Carrera de Desplazamiento Lateral
+## Lección 3: Carrera de Desplazamiento Lateral
 [![Lección-3](https://img.shields.io/badge/Leccion-3-yellow?style=for-the-badge&logo=unity)]  
 
 > **Descripción General:**  
 > En esta unidad, programarás un **juego de carrera de desplazamiento lateral infinito y rápido**, donde el jugador deberá cronometrar sus saltos sobre los obstáculos para evitar colisiones.  
 > Al crear este prototipo, aprenderás a **añadir música y efectos de sonido**, crear **fondos dinámicos de repetición infinita**, e incorporar **efectos de partículas** como salpicaduras y explosiones para mejorar la experiencia visual y auditiva.
 
-### 🎯 Objetivos de la Lección
+### Objetivos de la Lección
 > ----------------------------------------
 > - Implementar movimiento lateral y salto del jugador  
 > - Crear fondos infinitos con desplazamiento automático  
@@ -102,7 +102,7 @@ El alumno implementará **Programación Orientada a Objetos (POO)** para el desa
 > - Incorporar efectos visuales de partículas  
 > ----------------------------------------
 
-### ✅ Resultado Esperado
+### Resultado Esperado
 > ----------------------------------------
 > - Juego de carrera lateral infinito con controles de salto  
 > - Sonido y música integrados correctamente  
@@ -110,7 +110,7 @@ El alumno implementará **Programación Orientada a Objetos (POO)** para el desa
 > - Efectos de partículas aplicados a eventos del juego  
 > ----------------------------------------
 
-### 📂 Archivos de la Lección
+### Archivos de la Lección
 - [Lección 3 - Proyecto Unity](Lecciones/Leccion%203/Leccion3.unitypackage)  
 - [Lección 3 - Documentación](Lecciones/Leccion%203/Lección%203.pdf)  
 - [Lección 3 - Video](Lecciones/Leccion%203/Leccion3.mp4)  
@@ -123,10 +123,10 @@ El alumno implementará **Programación Orientada a Objetos (POO)** para el desa
 
 ---
 
-## 🧠 Práctica 3: Creación de un Menú Principal en Unity
+## Práctica 3: Creación de un Menú Principal en Unity
 [![Práctica-3](https://img.shields.io/badge/Práctica-3-purple?style=for-the-badge&logo=unity)]  
 
-### 📂 Archivos de la Práctica
+### Archivos de la Práctica
 - [Práctica 3 - Documentación](Practicas/Practica3/Practica%203.pdf)  
 - [Práctica 3 - Video](Practicas/Practica3/Practica3.mp4)  
 
