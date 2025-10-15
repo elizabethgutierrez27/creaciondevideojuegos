@@ -17,7 +17,7 @@ El alumno implementará **Programación Orientada a Objetos (POO)** para el desa
 
 ---
 
-## Lección 1: Simulación de Conducción
+## Lección 1: Player Control
 [![Lección-1](https://img.shields.io/badge/Leccion-1-red?style=for-the-badge&logo=unity)]  
 
 > **Descripción General:**  
@@ -51,7 +51,7 @@ El alumno implementará **Programación Orientada a Objetos (POO)** para el desa
 
 ---
 
-## Lección 2: Alimenta a los Animales
+## Lección 2: Basic Gameplay
 [![Lección-2](https://img.shields.io/badge/Leccion-2-green?style=for-the-badge&logo=unity)]  
 
 > **Descripción General:**  
@@ -87,7 +87,7 @@ El alumno implementará **Programación Orientada a Objetos (POO)** para el desa
 
 ---
 
-## Lección 3: Carrera de Desplazamiento Lateral
+## Lección 3: Sound and Effects
 [![Lección-3](https://img.shields.io/badge/Leccion-3-yellow?style=for-the-badge&logo=unity)]  
 
 > **Descripción General:**  
