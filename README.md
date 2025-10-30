@@ -82,7 +82,7 @@ El alumno implementará **Programación Orientada a Objetos (POO)** para el desa
 
 ---
 
-<img src="[https://learn.unity.com/api/v1/media/galleries/5dded932edbc2a001f1e2ac3/thumbnail](https://learn.unity.com/_next/image?url=https%3A%2F%2Fconnect-mediagw.unity.com%2Fh1%2F20190423%2Flearn%2Fimages%2F6b2e02ed-3cac-4a31-80c7-ebfa1af5c5f9_2_1_full.png&w=256&q=75)" alt="Alimenta a los Animales" width="600">
+<img src="https://unity-connect-prd.storage.googleapis.com/20190423/learn/images/1e357da2-5a2b-4a5c-8fa6-5e6816baf2a4_2_2_full.png" alt="Alimenta a los Animales" width="600">
 
 > Escenario superior donde el jugador lanza comida a los animales.
 
@@ -118,13 +118,13 @@ El alumno implementará **Programación Orientada a Objetos (POO)** para el desa
 
 ---
 
-<img src="https://connect-prd-cdn.unity.com/2020/10/Runner2DExample.gif" alt="Carrera lateral infinita" width="600">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwYJA4l4PK4WSY3THDo1jwF3LuJIRJRzU8jQ&s" alt="Carrera lateral infinita" width="600">
 
 > Escenario de carrera lateral con fondos dinámicos y efectos visuales.
 
 ---
 
-## Lección 5: User Interface 🖱️
+## Lección 5: User Interface 
 [![Lección-5](https://img.shields.io/badge/Leccion-5-f0ad4e?style=for-the-badge&logo=unity)]  
 
 > **Descripción General:**  
@@ -154,7 +154,7 @@ El alumno implementará **Programación Orientada a Objetos (POO)** para el desa
 
 ---
 
-<img src="https://connect-mediagw.unity.com/h1/20190423/learn/images/b2a74c43-1628-4e89-ad22-e1d9d9366835_5_1_full.png" alt="Pantalla de Título del Juego" width="600">
+<img src="https://unity-connect-prd.storage.googleapis.com/20230325/learn/images/thumbnail/d88d2c50-be4d-4df3-85f1-f6931f04897b___________2023_03_26_0.18.31.png" alt="Pantalla de Título del Juego" width="600">
 
 > Ejemplo de la interfaz de usuario con pantalla de inicio y monitor de puntaje.
 
@@ -171,6 +171,6 @@ El alumno implementará **Programación Orientada a Objetos (POO)** para el desa
 
 ---
 
-👩‍💻 **Autor:** Elizabeth Gutierrez Olvera  
-📘 **Materia:** Creación de Videojuegos  
-🏫 **Grupo:** GIDS5101
+**Autor:** Elizabeth Gutierrez Olvera 
+**Materia:** Creación de Videojuegos  
+**Grupo:** GIDS5101
